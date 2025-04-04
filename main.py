@@ -1,3 +1,7 @@
 # coding=utf-8
 user_name = raw_input ("Δώστε το όνομά σας: ")
-print "Γειά σου", user_name
+if username = 'Βασίλης':
+    print "Γειά σου σύντροφε!"
+else:
+    print "Γειά σου", user_name
+
